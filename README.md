@@ -9,5 +9,6 @@ If you have any questions regards the bot or the github page you can get support
 |--------------------------------|
 [Reccomended 🧷](https://discord.com/api/oauth2/authorize?client_id=1021083001871925389&permissions=1099984579702&scope=bot)premissions for the bot
 |--------------------------------|
+|--------------------------------
 [Administrator ⚙️](https://discord.com/api/oauth2/authorize?client_id=1021083001871925389&permissions=8&scope=bot)premissions for the bot
 |--------------------------------|
